@@ -1,4 +1,4 @@
-package superhero.daos.hibernate;
+/*package superhero.daos.hibernate;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
@@ -20,3 +20,4 @@ public class HeroDataDaoHibernate implements HeroDataDao{
 	}
 
 }
+*/
