@@ -1,5 +1,5 @@
 package superhero.services;
 
-public class TeamDataService {
+public interface TeamDataService {
 
 }

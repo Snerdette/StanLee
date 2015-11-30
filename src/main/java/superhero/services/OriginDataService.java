@@ -1,5 +1,5 @@
 package superhero.services;
 
-public class OriginDataService {
+public interface OriginDataService {
 
 }

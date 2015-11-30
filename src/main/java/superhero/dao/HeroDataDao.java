@@ -8,9 +8,12 @@ public interface HeroDataDao {
 	
 	public List<Hero> getHeroData();
 	
-	void add(Hero hero);
+	boolean add(Hero hero);
+	
 	void update(Hero hero);
-	void delete(Hero hero);
+	
+	void delete(Integer heroId);
+	
 	public Hero getHeroById(Integer heroId);
 
 }
